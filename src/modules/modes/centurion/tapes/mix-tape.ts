@@ -7,12 +7,14 @@ type Horn = {
   },
 };
 
+type SongData = {
+  artist: string,
+  title: string,
+};
+
 type Song = {
   type: 'song',
-  data: {
-    artist: string,
-    title: string,
-  }
+  data: SongData | SongData[],
 };
 
 type Beat = {
