@@ -15,14 +15,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 58.26,
+      timestamp: 59.5,
       type: 'horn',
       data: {
         counter: 1,
       },
     },
     {
-      timestamp: 58.26,
+      timestamp: 60,
       type: 'song',
       data: {
         artist: 'Katy Perry',
@@ -30,14 +30,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 121.12,
+      timestamp: 121,
       type: 'horn',
       data: {
         counter: 2,
       },
     },
     {
-      timestamp: 121.12,
+      timestamp: 121.5,
       type: 'song',
       data: {
         artist: 'Taylor Swift',
@@ -45,14 +45,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 183.25,
+      timestamp: 186,
       type: 'horn',
       data: {
         counter: 3,
       },
     },
     {
-      timestamp: 183.25,
+      timestamp: 186.5,
       type: 'song',
       data: {
         artist: 'David Guetta, Kelly Rowland',
@@ -60,14 +60,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 244.18,
+      timestamp: 250,
       type: 'horn',
       data: {
         counter: 4,
       },
     },
     {
-      timestamp: 244.18,
+      timestamp: 250.5,
       type: 'song',
       data: {
         artist: 'Ariana Grande, Zedd',
@@ -75,14 +75,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 307.29,
+      timestamp: 317,
       type: 'horn',
       data: {
         counter: 5,
       },
     },
     {
-      timestamp: 307.29,
+      timestamp: 317.5,
       type: 'song',
       data: {
         artist: 'Kesha',
@@ -90,14 +90,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 364.25,
+      timestamp: 374,
       type: 'horn',
       data: {
         counter: 6,
       },
     },
     {
-      timestamp: 364.27,
+      timestamp: 374.5,
       type: 'song',
       data: {
         artist: 'Jessie J',
@@ -105,14 +105,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 422.23,
+      timestamp: 433,
       type: 'horn',
       data: {
         counter: 7,
       },
     },
     {
-      timestamp: 422.23,
+      timestamp: 433.5,
       type: 'song',
       data: {
         artist: 'Katy Perry',
@@ -120,14 +120,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 487.17,
+      timestamp: 501,
       type: 'horn',
       data: {
         counter: 8,
       },
     },
     {
-      timestamp: 487.17,
+      timestamp: 501.5,
       type: 'song',
       data: {
         artist: 'Shania Twain',
@@ -135,14 +135,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 546.12,
+      timestamp: 560,
       type: 'horn',
       data: {
         counter: 9,
       },
     },
     {
-      timestamp: 546.12,
+      timestamp: 560.5,
       type: 'song',
       data: {
         artist: 'Roxy Dekker',
@@ -150,14 +150,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 599.22,
+      timestamp: 613,
       type: 'horn',
       data: {
         counter: 10,
       },
     },
     {
-      timestamp: 599.22,
+      timestamp: 613.5,
       type: 'song',
       data: {
         artist: 'Lady Gaga',
@@ -165,14 +165,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 659.01,
+      timestamp: 671,
       type: 'horn',
       data: {
         counter: 11,
       },
     },
     {
-      timestamp: 659.01,
+      timestamp: 671.5,
       type: 'song',
       data: {
         artist: 'K3',
@@ -180,14 +180,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 719.15,
+      timestamp: 731,
       type: 'horn',
       data: {
         counter: 12,
       },
     },
     {
-      timestamp: 719.15,
+      timestamp: 731.5,
       type: 'song',
       data: {
         artist: 'Beauty And The Beast',
@@ -195,14 +195,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 777.23,
+      timestamp: 793,
       type: 'horn',
       data: {
         counter: 13,
       },
     },
     {
-      timestamp: 777.23,
+      timestamp: 793.5,
       type: 'song',
       data: {
         artist: 'P!nk',
@@ -210,14 +210,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 837.06,
+      timestamp: 851,
       type: 'horn',
       data: {
         counter: 14,
       },
     },
     {
-      timestamp: 837.06,
+      timestamp: 852,
       type: 'song',
       data: {
         artist: 'Merol',
@@ -225,14 +225,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 900.13,
+      timestamp: 916,
       type: 'horn',
       data: {
         counter: 15,
       },
     },
     {
-      timestamp: 900.13,
+      timestamp: 916.5,
       type: 'song',
       data: {
         artist: 'Kesha',
@@ -240,14 +240,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 961.14,
+      timestamp: 978,
       type: 'horn',
       data: {
         counter: 16,
       },
     },
     {
-      timestamp: 961.14,
+      timestamp: 978.5,
       type: 'song',
       data: {
         artist: 'Lisa, Amy, Shelly',
@@ -255,14 +255,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1017.11,
+      timestamp: 1036,
       type: 'horn',
       data: {
         counter: 17,
       },
     },
     {
-      timestamp: 1017.11,
+      timestamp: 1036.5,
       type: 'song',
       data: {
         artist: 'Carly Rae Jepsen',
@@ -270,14 +270,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1072.17,
+      timestamp: 1095,
       type: 'horn',
       data: {
         counter: 18,
       },
     },
     {
-      timestamp: 1072.17,
+      timestamp: 1095.5,
       type: 'song',
       data: {
         artist: 'Whitney Houston',
@@ -285,14 +285,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1137.08,
+      timestamp: 1160,
       type: 'horn',
       data: {
         counter: 19,
       },
     },
     {
-      timestamp: 1137.08,
+      timestamp: 1160.5,
       type: 'song',
       data: {
         artist: 'Lady Gaga',
@@ -300,14 +300,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1196.07,
+      timestamp: 1221,
       type: 'horn',
       data: {
         counter: 20,
       },
     },
     {
-      timestamp: 1196.07,
+      timestamp: 1221,
       type: 'song',
       data: {
         artist: 'Ariana Grande',
@@ -315,14 +315,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1257.29,
+      timestamp: 1283,
       type: 'horn',
       data: {
         counter: 21,
       },
     },
     {
-      timestamp: 1257.29,
+      timestamp: 1283,
       type: 'song',
       data: {
         artist: 'Shawn Mendes, Camila Cabello',
@@ -330,14 +330,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1329.22,
+      timestamp: 1356,
       type: 'horn',
       data: {
         counter: 22,
       },
     },
     {
-      timestamp: 1329.22,
+      timestamp: 1356.5,
       type: 'song',
       data: {
         artist: 'High School Musical',
@@ -345,14 +345,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1383.18,
+      timestamp: 1411,
       type: 'horn',
       data: {
         counter: 23,
       },
     },
     {
-      timestamp: 1383.18,
+      timestamp: 1411.5,
       type: 'song',
       data: {
         artist: 'Lizzo',
@@ -360,14 +360,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1440.15,
+      timestamp: 1469,
       type: 'horn',
       data: {
         counter: 24,
       },
     },
     {
-      timestamp: 1440.15,
+      timestamp: 1469.5,
       type: 'song',
       data: {
         artist: 'Tess',
@@ -375,14 +375,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1501.03,
+      timestamp: 1530,
       type: 'horn',
       data: {
         counter: 25,
       },
     },
     {
-      timestamp: 1501.03,
+      timestamp: 1530.5,
       type: 'song',
       data: {
         artist: 'Suzan en Freek',
@@ -390,14 +390,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1570.08,
+      timestamp: 1597,
       type: 'horn',
       data: {
         counter: 26,
       },
     },
     {
-      timestamp: 1570.08,
+      timestamp: 1597.5,
       type: 'song',
       data: {
         artist: 'K3',
@@ -405,14 +405,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1630.18,
+      timestamp: 1658,
       type: 'horn',
       data: {
         counter: 27,
       },
     },
     {
-      timestamp: 1630.18,
+      timestamp: 1658.5,
       type: 'song',
       data: {
         artist: 'Froukje',
@@ -420,14 +420,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1688.28,
+      timestamp: 1717,
       type: 'horn',
       data: {
         counter: 28,
       },
     },
     {
-      timestamp: 1688.28,
+      timestamp: 1717.5,
       type: 'song',
       data: {
         artist: 'Natasha Bedingfield',
@@ -435,14 +435,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1746.27,
+      timestamp: 1774,
       type: 'horn',
       data: {
         counter: 29,
       },
     },
     {
-      timestamp: 1746.27,
+      timestamp: 1774.5,
       type: 'song',
       data: {
         artist: 'Miley Cyrus',
@@ -450,14 +450,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1806.16,
+      timestamp: 1834,
       type: 'horn',
       data: {
         counter: 30,
       },
     },
     {
-      timestamp: 1806.16,
+      timestamp: 1834.5,
       type: 'song',
       data: {
         artist: 'Vanessa Carlton',
@@ -465,14 +465,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1865.21,
+      timestamp: 1895,
       type: 'horn',
       data: {
         counter: 31,
       },
     },
     {
-      timestamp: 1865.21,
+      timestamp: 1895.5,
       type: 'song',
       data: {
         artist: 'Britney Spears',
@@ -480,14 +480,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1935.00,
+      timestamp: 1968,
       type: 'horn',
       data: {
         counter: 32,
       },
     },
     {
-      timestamp: 1935.00,
+      timestamp: 1968.5,
       type: 'song',
       data: {
         artist: 'Alicia Keys',
@@ -495,14 +495,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 1996.07,
+      timestamp: 2028,
       type: 'horn',
       data: {
         counter: 33,
       },
     },
     {
-      timestamp: 1996.07,
+      timestamp: 2028.5,
       type: 'song',
       data: {
         artist: 'Moana',
@@ -510,14 +510,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 2055.02,
+      timestamp: 2079,
       type: 'horn',
       data: {
         counter: 34,
       },
     },
     {
-      timestamp: 2055.02,
+      timestamp: 2079.5,
       type: 'song',
       data: {
         artist: 'Taylor Swift',
@@ -525,14 +525,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 2121.19,
+      timestamp: 2143,
       type: 'horn',
       data: {
         counter: 35,
       },
     },
     {
-      timestamp: 2121.19,
+      timestamp: 2143.5,
       type: 'song',
       data: {
         artist: 'Rihanna',
@@ -540,14 +540,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 2184.02,
+      timestamp: 2212,
       type: 'horn',
       data: {
         counter: 36,
       },
     },
     {
-      timestamp: 2184.02,
+      timestamp: 2212.5,
       type: 'song',
       data: {
         artist: 'Britney Spears',
@@ -555,14 +555,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 2241.04,
+      timestamp: 2270,
       type: 'horn',
       data: {
         counter: 37,
       },
     },
     {
-      timestamp: 2241.04,
+      timestamp: 2270.5,
       type: 'song',
       data: {
         artist: 'Nielson en Miss Montreal',
@@ -570,14 +570,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 2300.18,
+      timestamp: 2328,
       type: 'horn',
       data: {
         counter: 38,
       },
     },
     {
-      timestamp: 2300.18,
+      timestamp: 2328.5,
       type: 'song',
       data: {
         artist: 'Anne-Marie',
@@ -585,14 +585,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 2360.06,
+      timestamp: 2385,
       type: 'horn',
       data: {
         counter: 39,
       },
     },
     {
-      timestamp: 2360.06,
+      timestamp: 2385.5,
       type: 'song',
       data: {
         artist: 'Zara Larsson',
@@ -600,14 +600,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 2417.03,
+      timestamp: 2443,
       type: 'horn',
       data: {
         counter: 40,
       },
     },
     {
-      timestamp: 2417.03,
+      timestamp: 2443.5,
       type: 'song',
       data: {
         artist: 'ABBA',
@@ -615,14 +615,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 2475.18,
+      timestamp: 2503,
       type: 'horn',
       data: {
         counter: 41,
       },
     },
     {
-      timestamp: 2475.18,
+      timestamp: 2503.5,
       type: 'song',
       data: {
         artist: 'Suzan en Freek',
@@ -630,14 +630,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 2531.26,
+      timestamp: 2558,
       type: 'horn',
       data: {
         counter: 42,
       },
     },
     {
-      timestamp: 2531.26,
+      timestamp: 2558.5,
       type: 'song',
       data: {
         artist: 'Dua Lipa',
@@ -645,14 +645,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 2591.15,
+      timestamp: 2619,
       type: 'horn',
       data: {
         counter: 43,
       },
     },
     {
-      timestamp: 2591.15,
+      timestamp: 2619.5,
       type: 'song',
       data: {
         artist: 'Spice Girls',
@@ -660,14 +660,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 2651.12,
+      timestamp: 2681,
       type: 'horn',
       data: {
         counter: 44,
       },
     },
     {
-      timestamp: 2651.12,
+      timestamp: 2681.5,
       type: 'song',
       data: {
         artist: 'P!nk',
@@ -675,14 +675,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 2707.25,
+      timestamp: 2736,
       type: 'horn',
       data: {
         counter: 45,
       },
     },
     {
-      timestamp: 2707.25,
+      timestamp: 2736.5,
       type: 'song',
       data: {
         artist: 'Dua Lipa',
@@ -690,14 +690,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 2767.18,
+      timestamp: 2797,
       type: 'horn',
       data: {
         counter: 46,
       },
     },
     {
-      timestamp: 2767.18,
+      timestamp: 2797.5,
       type: 'song',
       data: {
         artist: 'Kelly Clarkson',
@@ -705,14 +705,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 2824.15,
+      timestamp: 2854,
       type: 'horn',
       data: {
         counter: 47,
       },
     },
     {
-      timestamp: 2824.15,
+      timestamp: 2854.5,
       type: 'song',
       data: {
         artist: 'Rita Ora',
@@ -720,14 +720,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 2888.21,
+      timestamp: 2917,
       type: 'horn',
       data: {
         counter: 48,
       },
     },
     {
-      timestamp: 2888.21,
+      timestamp: 2917.5,
       type: 'song',
       data: {
         artist: 'Brave',
@@ -735,14 +735,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 2945.00,
+      timestamp: 2974,
       type: 'horn',
       data: {
         counter: 49,
       },
     },
     {
-      timestamp: 2945.00,
+      timestamp: 2974.5,
       type: 'song',
       data: {
         artist: 'Taylor Swift',
@@ -750,14 +750,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3010.15,
+      timestamp: 3039.5,
       type: 'horn',
       data: {
         counter: 50,
       },
     },
     {
-      timestamp: 3010.15,
+      timestamp: 3040,
       type: 'song',
       data: {
         artist: 'Becky G',
@@ -765,14 +765,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3068.28,
+      timestamp: 3097,
       type: 'horn',
       data: {
         counter: 51,
       },
     },
     {
-      timestamp: 3068.28,
+      timestamp: 3097.5,
       type: 'song',
       data: {
         artist: 'Cyndi Lauper',
@@ -780,14 +780,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3127.11,
+      timestamp: 3155,
       type: 'horn',
       data: {
         counter: 52,
       },
     },
     {
-      timestamp: 3127.11,
+      timestamp: 3155.5,
       type: 'song',
       data: {
         artist: 'K3',
@@ -795,14 +795,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3183.17,
+      timestamp: 3210,
       type: 'horn',
       data: {
         counter: 53,
       },
     },
     {
-      timestamp: 3183.17,
+      timestamp: 3210.5,
       type: 'song',
       data: {
         artist: 'Aladdin',
@@ -810,14 +810,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3245.28,
+      timestamp: 3272,
       type: 'horn',
       data: {
         counter: 54,
       },
     },
     {
-      timestamp: 3245.28,
+      timestamp: 3272.5,
       type: 'song',
       data: {
         artist: 'GAYLE',
@@ -825,14 +825,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3306.29,
+      timestamp: 3331,
       type: 'horn',
       data: {
         counter: 55,
       },
     },
     {
-      timestamp: 3306.29,
+      timestamp: 3331.5,
       type: 'song',
       data: {
         artist: 'Suzan en Freek',
@@ -840,14 +840,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3369.24,
+      timestamp: 3393,
       type: 'horn',
       data: {
         counter: 56,
       },
     },
     {
-      timestamp: 3369.24,
+      timestamp: 3393.5,
       type: 'song',
       data: {
         artist: 'Dua Lipa',
@@ -855,14 +855,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3427.17,
+      timestamp: 3452,
       type: 'horn',
       data: {
         counter: 57,
       },
     },
     {
-      timestamp: 3427.17,
+      timestamp: 3452.5,
       type: 'song',
       data: {
         artist: 'Katy Perry',
@@ -870,14 +870,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3487.04,
+      timestamp: 3512.5,
       type: 'horn',
       data: {
         counter: 58,
       },
     },
     {
-      timestamp: 3487.04,
+      timestamp: 3513,
       type: 'song',
       data: {
         artist: 'Renée Rapp',
@@ -885,14 +885,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3544.22,
+      timestamp: 3570,
       type: 'horn',
       data: {
         counter: 59,
       },
     },
     {
-      timestamp: 3544.22,
+      timestamp: 3570.5,
       type: 'song',
       data: {
         artist: 'Aladdin',
@@ -900,14 +900,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3607.04,
+      timestamp: 3631,
       type: 'horn',
       data: {
         counter: 60,
       },
     },
     {
-      timestamp: 3607.04,
+      timestamp: 3631.5,
       type: 'song',
       data: {
         artist: 'Ralf Mackenbach',
@@ -915,14 +915,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3667.14,
+      timestamp: 3690,
       type: 'horn',
       data: {
         counter: 61,
       },
     },
     {
-      timestamp: 3667.14,
+      timestamp: 3690.5,
       type: 'song',
       data: {
         artist: 'Little Mix',
@@ -930,14 +930,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3722.25,
+      timestamp: 3751,
       type: 'horn',
       data: {
         counter: 62,
       },
     },
     {
-      timestamp: 3722.25,
+      timestamp: 3751.5,
       type: 'song',
       data: {
         artist: 'Shakira, Freshlyground',
@@ -945,14 +945,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3786.17,
+      timestamp: 3809,
       type: 'horn',
       data: {
         counter: 63,
       },
     },
     {
-      timestamp: 3786.17,
+      timestamp: 3809.5,
       type: 'song',
       data: {
         artist: 'Aqua',
@@ -960,14 +960,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3847.20,
+      timestamp: 3874,
       type: 'horn',
       data: {
         counter: 64,
       },
     },
     {
-      timestamp: 3847.20,
+      timestamp: 3874.5,
       type: 'song',
       data: {
         artist: 'Ava Max',
@@ -975,14 +975,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3905.09,
+      timestamp: 3932,
       type: 'horn',
       data: {
         counter: 65,
       },
     },
     {
-      timestamp: 3905.09,
+      timestamp: 3932.5,
       type: 'song',
       data: {
         artist: 'Katy Perry',
@@ -990,14 +990,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 3964.20,
+      timestamp: 3994,
       type: 'horn',
       data: {
         counter: 66,
       },
     },
     {
-      timestamp: 3964.20,
+      timestamp: 3994.50,
       type: 'song',
       data: {
         artist: 'Kelly Clarkson',
@@ -1005,14 +1005,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4025.19,
+      timestamp: 4054,
       type: 'horn',
       data: {
         counter: 67,
       },
     },
     {
-      timestamp: 4025.19,
+      timestamp: 4054.5,
       type: 'song',
       data: {
         artist: 'Ava Max',
@@ -1020,14 +1020,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4082.20,
+      timestamp: 4112,
       type: 'horn',
       data: {
         counter: 68,
       },
     },
     {
-      timestamp: 4082.20,
+      timestamp: 4112.5,
       type: 'song',
       data: {
         artist: 'Meghan Trainor',
@@ -1035,14 +1035,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4138.25,
+      timestamp: 4167,
       type: 'horn',
       data: {
         counter: 69,
       },
     },
     {
-      timestamp: 4138.25,
+      timestamp: 4167.5,
       type: 'song',
       data: {
         artist: 'K3',
@@ -1050,14 +1050,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4196.04,
+      timestamp: 4225,
       type: 'horn',
       data: {
         counter: 70,
       },
     },
     {
-      timestamp: 4196.04,
+      timestamp: 4225.5,
       type: 'song',
       data: {
         artist: 'Anouk',
@@ -1065,14 +1065,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4255.06,
+      timestamp: 4284,
       type: 'horn',
       data: {
         counter: 71,
       },
     },
     {
-      timestamp: 4255.06,
+      timestamp: 4284.5,
       type: 'song',
       data: {
         artist: 'Dua Lipa',
@@ -1080,14 +1080,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4315.21,
+      timestamp: 4345,
       type: 'horn',
       data: {
         counter: 72,
       },
     },
     {
-      timestamp: 4315.21,
+      timestamp: 4345.5,
       type: 'song',
       data: {
         artist: 'Frozen',
@@ -1095,14 +1095,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4378.12,
+      timestamp: 4405,
       type: 'horn',
       data: {
         counter: 73,
       },
     },
     {
-      timestamp: 4378.12,
+      timestamp: 4405.5,
       type: 'song',
       data: {
         artist: 'The Weather Girls',
@@ -1110,14 +1110,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4440.01,
+      timestamp: 4469,
       type: 'horn',
       data: {
         counter: 74,
       },
     },
     {
-      timestamp: 4440.01,
+      timestamp: 4469.5,
       type: 'song',
       data: {
         artist: "Destiny's Child",
@@ -1125,14 +1125,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4497.05,
+      timestamp: 4525,
       type: 'horn',
       data: {
         counter: 75,
       },
     },
     {
-      timestamp: 4497.05,
+      timestamp: 4525.5,
       type: 'song',
       data: {
         artist: 'Suzan en Freek',
@@ -1140,14 +1140,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4554.19,
+      timestamp: 4583,
       type: 'horn',
       data: {
         counter: 76,
       },
     },
     {
-      timestamp: 4554.19,
+      timestamp: 4583.5,
       type: 'song',
       data: {
         artist: 'Cascada',
@@ -1155,14 +1155,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4621.00,
+      timestamp: 4647,
       type: 'horn',
       data: {
         counter: 77,
       },
     },
     {
-      timestamp: 4621.00,
+      timestamp: 4647.5,
       type: 'song',
       data: {
         artist: 'Ariana Grande',
@@ -1170,14 +1170,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4677.13,
+      timestamp: 4706,
       type: 'horn',
       data: {
         counter: 78,
       },
     },
     {
-      timestamp: 4677.13,
+      timestamp: 4706.5,
       type: 'song',
       data: {
         artist: 'Frozen 2',
@@ -1185,14 +1185,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4731.05,
+      timestamp: 4759.5,
       type: 'horn',
       data: {
         counter: 79,
       },
     },
     {
-      timestamp: 4731.05,
+      timestamp: 4760,
       type: 'song',
       data: {
         artist: 'Miss Montreal',
@@ -1200,14 +1200,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4795.09,
+      timestamp: 4824,
       type: 'horn',
       data: {
         counter: 80,
       },
     },
     {
-      timestamp: 4795.09,
+      timestamp: 4824.5,
       type: 'song',
       data: {
         artist: 'Ariana Grande, Jessie J, Nicky Minaj',
@@ -1215,14 +1215,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4857.17,
+      timestamp: 4888,
       type: 'horn',
       data: {
         counter: 81,
       },
     },
     {
-      timestamp: 4857.17,
+      timestamp: 4888.5,
       type: 'song',
       data: {
         artist: 'Maan',
@@ -1230,14 +1230,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4918.11,
+      timestamp: 4948.5,
       type: 'horn',
       data: {
         counter: 82,
       },
     },
     {
-      timestamp: 4918.11,
+      timestamp: 4949,
       type: 'song',
       data: {
         artist: 'OBZ',
@@ -1245,14 +1245,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 4992.21,
+      timestamp: 5025,
       type: 'horn',
       data: {
         counter: 83,
       },
     },
     {
-      timestamp: 4992.21,
+      timestamp: 5025.5,
       type: 'song',
       data: {
         artist: 'Leah Kate',
@@ -1260,14 +1260,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5043.10,
+      timestamp: 5076,
       type: 'horn',
       data: {
         counter: 84,
       },
     },
     {
-      timestamp: 5043.10,
+      timestamp: 5076.5,
       type: 'song',
       data: {
         artist: 'P!nk, Willow Sage Hart',
@@ -1275,14 +1275,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5100.05,
+      timestamp: 5132,
       type: 'horn',
       data: {
         counter: 85,
       },
     },
     {
-      timestamp: 5100.05,
+      timestamp: 5132.5,
       type: 'song',
       data: {
         artist: 'Tate McRae',
@@ -1290,14 +1290,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5166.16,
+      timestamp: 5197,
       type: 'horn',
       data: {
         counter: 86,
       },
     },
     {
-      timestamp: 5166.16,
+      timestamp: 5197.5,
       type: 'song',
       data: {
         artist: 'Taylor Swift',
@@ -1305,14 +1305,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5226.02,
+      timestamp: 5257,
       type: 'horn',
       data: {
         counter: 87,
       },
     },
     {
-      timestamp: 5226.02,
+      timestamp: 5257.5,
       type: 'song',
       data: {
         artist: "Destiny's Child",
@@ -1320,14 +1320,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5287.02,
+      timestamp: 5321,
       type: 'horn',
       data: {
         counter: 88,
       },
     },
     {
-      timestamp: 5287.02,
+      timestamp: 5321.5,
       type: 'song',
       data: {
         artist: 'K3',
@@ -1335,14 +1335,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5350.17,
+      timestamp: 5385,
       type: 'horn',
       data: {
         counter: 89,
       },
     },
     {
-      timestamp: 5350.17,
+      timestamp: 5385.5,
       type: 'song',
       data: {
         artist: 'Olivia Rodrigo',
@@ -1350,14 +1350,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5410.27,
+      timestamp: 5446,
       type: 'horn',
       data: {
         counter: 90,
       },
     },
     {
-      timestamp: 5410.27,
+      timestamp: 5446.5,
       type: 'song',
       data: {
         artist: 'Suzan en Freek',
@@ -1365,14 +1365,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5468.16,
+      timestamp: 5501,
       type: 'horn',
       data: {
         counter: 91,
       },
     },
     {
-      timestamp: 5468.16,
+      timestamp: 5501.5,
       type: 'song',
       data: {
         artist: 'Frozen',
@@ -1380,14 +1380,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5527.12,
+      timestamp: 5550,
       type: 'horn',
       data: {
         counter: 92,
       },
     },
     {
-      timestamp: 5527.12,
+      timestamp: 5550.5,
       type: 'song',
       data: {
         artist: 'Sia',
@@ -1395,14 +1395,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5582.15,
+      timestamp: 5603,
       type: 'horn',
       data: {
         counter: 93,
       },
     },
     {
-      timestamp: 5582.15,
+      timestamp: 5603.5,
       type: 'song',
       data: {
         artist: 'Mega Mindy',
@@ -1410,14 +1410,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5639.05,
+      timestamp: 5647,
       type: 'horn',
       data: {
         counter: 94,
       },
     },
     {
-      timestamp: 5639.05,
+      timestamp: 5647.5,
       type: 'song',
       data: {
         artist: 'Rachel Platten',
@@ -1425,14 +1425,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5698.12,
+      timestamp: 5704,
       type: 'horn',
       data: {
         counter: 95,
       },
     },
     {
-      timestamp: 5698.12,
+      timestamp: 5704.5,
       type: 'song',
       data: {
         artist: 'Katy Perry',
@@ -1440,14 +1440,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5754.13,
+      timestamp: 5760,
       type: 'horn',
       data: {
         counter: 96,
       },
     },
     {
-      timestamp: 5754.13,
+      timestamp: 5760.5,
       type: 'song',
       data: {
         artist: 'Suzan en Freek',
@@ -1455,14 +1455,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5812.25,
+      timestamp: 5818,
       type: 'horn',
       data: {
         counter: 97,
       },
     },
     {
-      timestamp: 5812.25,
+      timestamp: 5818.5,
       type: 'song',
       data: {
         artist: 'Las Ketchup',
@@ -1470,14 +1470,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5870.09,
+      timestamp: 5878,
       type: 'horn',
       data: {
         counter: 98,
       },
     },
     {
-      timestamp: 5870.09,
+      timestamp: 5878.5,
       type: 'song',
       data: {
         artist: 'The Greatest Showman',
@@ -1485,14 +1485,14 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5929.06,
+      timestamp: 5935,
       type: 'horn',
       data: {
         counter: 99,
       },
     },
     {
-      timestamp: 5929.06,
+      timestamp: 5935.5,
       type: 'song',
       data: {
         artist: 'Beyoncé',
@@ -1500,7 +1500,7 @@ const athenaCenturion: MixTape = {
       },
     },
     {
-      timestamp: 5999.25,
+      timestamp: 6004,
       type: 'horn',
       data: {
         counter: 100,
