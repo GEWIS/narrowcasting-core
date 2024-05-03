@@ -1,9 +1,9 @@
 import { Response as ExResponse, Request as ExRequest, NextFunction, Express } from 'express';
 import { ValidateError } from 'tsoa';
 import { AxiosError } from 'axios';
+import { ApiError as TrelloAPIError } from '@gewis/trello-client';
 import { HttpApiException, HttpStatusCode } from './helpers/customError';
 import logger from './logger';
-import { ApiError as TrelloAPIError } from './modules/posters/trello/client';
 
 export function setupErrorHandler(app: Express) {
   app.use((req: ExRequest, res: ExResponse) => {
