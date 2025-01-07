@@ -17,6 +17,8 @@ import {
   CenturionScreenHandler,
   CurrentlyPlayingTrackHandler,
   GewisPosterScreenHandler,
+  HubbleClosedPosterScreenHandler,
+  HubbleLastcallPosterScreenHandler,
   HubblePosterScreenHandler,
   RoomResponsibleLegacyHandler,
   StageEffectsHandler,
@@ -83,6 +85,8 @@ export default class HandlerFactory {
       this.createHandler(CenturionScreenHandler, () => new CenturionScreenHandler(socket)),
       this.createHandler(GewisPosterScreenHandler, () => new GewisPosterScreenHandler(socket)),
       this.createHandler(HubblePosterScreenHandler, () => new HubblePosterScreenHandler(socket)),
+      this.createHandler(HubbleClosedPosterScreenHandler, () => new HubbleClosedPosterScreenHandler(socket)),
+      this.createHandler(HubbleLastcallPosterScreenHandler, () => new HubbleLastcallPosterScreenHandler(socket)),
       this.createHandler(StageEffectsHandler, () => new StageEffectsHandler(socket)),
       this.createHandler(TimeTrailRaceScreenHandler, () => new TimeTrailRaceScreenHandler(socket)),
       this.createHandler(

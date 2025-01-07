@@ -2,6 +2,8 @@ export { default as CurrentlyPlayingTrackHandler } from './curently-playing-trac
 export { default as CenturionScreenHandler } from './centurion-screen-handler';
 export { default as GewisPosterScreenHandler } from './poster/gewis/gewis-poster-screen-handler';
 export { default as HubblePosterScreenHandler } from './poster/hubble/hubble-poster-screen-handler';
+export { default as HubbleClosedPosterScreenHandler } from './poster/hubble/hubble-closed-poster-screen-handler';
+export { default as HubbleLastcallPosterScreenHandler } from './poster/hubble/hubble-lastcall-poster-screen-handler';
 export { default as RoomResponsibleLegacyHandler } from './room-responsible-legacy-handler';
 export { default as StageEffectsHandler } from './stage-effects-handler';
 export { default as TimeTrailRaceScreenHandler } from './time-trail-race-screen-handler';
